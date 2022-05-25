@@ -20,6 +20,10 @@ h1 {
     text-decoration: underline;
 }
 
+ul {
+    font-size: 1.5rem;
+}
+
 img {
     width: 25rem;
     height: auto;
