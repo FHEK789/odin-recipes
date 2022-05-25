@@ -1,0 +1,31 @@
+* {
+    font-family: 'Courier New', sans-serif;
+}
+
+body, html {
+    height: '100%';
+    max-width: 650px;
+    margin: auto;
+
+    background-color: #fcfcfc;
+}
+
+h1,
+h2 {
+    color: #232629;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+img {
+    width: 25rem;
+    height: auto;
+    border-radius: 1rem;
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
